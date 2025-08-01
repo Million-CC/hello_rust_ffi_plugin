@@ -1,6 +1,6 @@
 precompiled_binaries:
   # Uri prefix used when downloading precompiled binaries.
-  url_prefix: https://github.com/<repository-owner>/<repository-name>/releases/download/precompiled_
+  url_prefix: https://github.com/Million-CC/hello_rust_ffi_plugin/releases/download/precompiled_
 
   # Public key for verifying downloaded precompiled binaries.
   public_key: c3d8a03f2a9cc3f4e48091b73e5f7333207c33b6962ae252bd29af69ce0fe8e7
